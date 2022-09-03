@@ -1,1 +1,3 @@
 # hevc-converter
+
+`./converter.sh`
